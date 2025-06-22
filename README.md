@@ -1,8 +1,6 @@
 **📊 Introduction:**
-
-![Screenshot 2025-06-22 235000](https://github.com/user-attachments/assets/d7a5af89-d738-47a1-82ee-8ad677803742)
-
 This Power BI dashboard provides an in-depth analysis of Super Store sales data across various dimensions like region, category, customer segment, and time, enabling smarter decision-making through visual storytelling.
+![Uploading Screenshot 2025-06-22 235000.png…]()
 
 **🎯 Objective:**
 
