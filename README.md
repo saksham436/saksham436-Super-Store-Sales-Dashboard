@@ -1,36 +1,36 @@
-**📊 Introduction:**
+**1-📊 Introduction:**
 This Power BI dashboard provides an in-depth analysis of Super Store sales data across various dimensions like region, category, customer segment, and time, enabling smarter decision-making through visual storytelling.
 ![Screenshot 2025-06-22 235000](https://github.com/user-attachments/assets/7d69916b-dfe7-4507-a5e6-e1bb25f6d6af)
 
 
-**🎯 Objective:**
+**2-🎯 Objective:**
 
 The main goal is to monitor sales performance, evaluate profit trends, and forecast short-term sales (next 15 days) to guide planning and inventory management.
 
-**📍 Sales Forecast (15 Days):**
+**3-📍 Sales Forecast (15 Days):**
 
 Two line charts show predicted sales using historical data patterns. The forecast helps identify upcoming sales trends and prepare in advance.
 
-**📌 State-wise Analysis:**
+**4-📌 State-wise Analysis:**
 
 A bar chart compares total sales across U.S. states. California, New York, and Texas emerge as top contributors.
 
-**🗂️ Segment & Payment Mode Insights:**
+**5-🗂️ Segment & Payment Mode Insights:**
 
 Donut charts show performance across customer segments (Consumer, Corporate, Home Office) and payment methods (Cards, Online, COD).
 
-**📅 Monthly Trends:**
+**6-📅 Monthly Trends:**
 
 Area charts highlight sales and profit trends by month (for 2019–2020), allowing seasonal pattern recognition and business cycle monitoring.
 
-**📍 Region Filter Functionality:**
+**7-📍 Region Filter Functionality:**
 
 The dashboard enables quick filtering by region (Central, East, South, West), helping to narrow down performance comparisons geographically.
-**🌍 Map Visualization:**
+**8-🌍 Map Visualization:**
 
 The map view links geographical data with sales and profit figures, helping locate strong and weak performing areas spatially.
 
-**⚠️ Challenges & Limitations:**
+**9-⚠️ Challenges & Limitations:**
 
 
 Forecasting accuracy is dependent on historical trends.
@@ -44,7 +44,7 @@ Manual refresh dependency in some cases.
 
 ![Screenshot 2025-06-22 234800](https://github.com/user-attachments/assets/36ec714c-7ef5-4be3-a355-6b2158f7d16a)
 
-**🚀 Future Enhancements:**
+**10-🚀 Future Enhancements:**
 Integrate AI/ML models for smarter forecasting.
 
 Add dynamic filters and customer-level insights.
