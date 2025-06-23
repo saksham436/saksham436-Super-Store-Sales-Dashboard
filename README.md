@@ -1,6 +1,18 @@
+![Screenshot 2025-06-24 042508](https://github.com/user-attachments/assets/5608f059-2aa6-4263-936b-f99c70044a51)
+
+![Screenshot 2025-06-24 042708](https://github.com/user-attachments/assets/f89b6a33-0e3d-431b-8509-dfb70f7ddb6a)
+
+![Screenshot 2025-06-24 042720](https://github.com/user-attachments/assets/ae81055e-5a57-4aaa-9868-f2c5cab26670)
+
+![Screenshot 2025-06-24 042732](https://github.com/user-attachments/assets/38f230a2-9b9a-4944-b67b-f88495f1c541)
+
+![Screenshot 2025-06-24 042745](https://github.com/user-attachments/assets/e835f03d-4e3a-4c77-95d9-4309df519f4d)
+
+![Screenshot 2025-06-24 042800](https://github.com/user-attachments/assets/7d911cc1-6784-44a1-97dd-169db64eec83)
+
 **1-📊 Introduction:**
 This Power BI dashboard provides an in-depth analysis of Super Store sales data across various dimensions like region, category, customer segment, and time, enabling smarter decision-making through visual storytelling.
-![Screenshot 2025-06-22 235000](https://github.com/user-attachments/assets/7d69916b-dfe7-4507-a5e6-e1bb25f6d6af)
+
 
 
 **2-🎯 Objective:**
@@ -42,7 +54,7 @@ Limited drill-down capabilities for customer behavior or SKU-level analysis.
 Manual refresh dependency in some cases.
 
 
-![Screenshot 2025-06-22 234800](https://github.com/user-attachments/assets/36ec714c-7ef5-4be3-a355-6b2158f7d16a)
+
 
 **10-🚀 Future Enhancements:**
 Integrate AI/ML models for smarter forecasting.
